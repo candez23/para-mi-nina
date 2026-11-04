@@ -1,0 +1,45 @@
+{
+  "name": "Jardin para Nina",
+  "version": "1.0",
+  "android": {
+    "package": "com.kndez.ninagarden",
+    "min_sdk": 26,
+    "target_sdk": 35,
+    "signature_verified": true,
+    "physical_device_tested": false
+  },
+  "files": {
+    "NinaGarden-Lively.zip": {
+      "bytes": 177000,
+      "sha256": "1f30643eb925c40b24ce06bf729bb8128bf99241e844f9e46e4ae9a999116b00"
+    },
+    "NinaGarden-Android.apk": {
+      "bytes": 29214,
+      "sha256": "5c82d600302506942d5c58fa4aadee02a24c19b4f480a0814cc6fc872a0df128"
+    },
+    "NinaGarden-Android-fuentes.zip": {
+      "bytes": 16893,
+      "sha256": "cf62fb972a9c9536f233fd6663d58602a579ebecd3b3aba333edd865614ac6ee"
+    },
+    "index.html": {
+      "bytes": 24560,
+      "sha256": "95456ff1a8978171e9fba30364e2cebf6547288a19d7c151e41c2110ff8061c0"
+    },
+    "preview.html": {
+      "bytes": 15172,
+      "sha256": "1a3c36e41c12bfe370193d86d0bfb729a0718a9413861fdbb8a1fb8eee2e08e2"
+    },
+    "LivelyInfo.json": {
+      "bytes": 378,
+      "sha256": "4b51afc96a0bf117d50d2da34fa7d9724fcbdf23f82eb156bbfee25a823e350c"
+    },
+    "LivelyProperties.json": {
+      "bytes": 889,
+      "sha256": "405a98c25b7f433176728c4f40a91ab22272427ee9b51671a8e3e67b6902de41"
+    },
+    "thumbnail.jpg": {
+      "bytes": 169732,
+      "sha256": "44202d5bb0d8319ddd2d41ad572b5eaa94243b23f2e6a6c2bd2babe9768152db"
+    }
+  }
+}

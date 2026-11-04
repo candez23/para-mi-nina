@@ -1,0 +1,13 @@
+{
+  "package": "com.kndez.ninagarden",
+  "version": "1.0",
+  "min_sdk": 26,
+  "target_sdk": 35,
+  "apk_bytes": 29214,
+  "sha256": "5c82d600302506942d5c58fa4aadee02a24c19b4f480a0814cc6fc872a0df128",
+  "signature_verified": true,
+  "permissions": [],
+  "physical_device_tested": false,
+  "signature_report": "Verifies\nVerified using v1 scheme (JAR signing): false\nVerified using v2 scheme (APK Signature Scheme v2): true\nVerified using v3 scheme (APK Signature Scheme v3): true\nVerified using v3.1 scheme (APK Signature Scheme v3.1): false\nVerified using v4 scheme (APK Signature Scheme v4): false\nVerified for SourceStamp: false\nNumber of signers: 1\nSigner #1 certificate DN: CN=Nina Garden Development, OU=Local, O=Personal, C=MX\nSigner #1 certificate SHA-256 digest: 56aaa74a99187181be65ab1edec4210b534440713237dfc3e5bf5657fb99c605\nSigner #1 certificate SHA-1 digest: 620d97c1cf1d26092427624b6064eb1f81e1d817\nSigner #1 certificate MD5 digest: 1408818a0c0d420f86fa0b5c47fbbf24\nSigner #1 key algorithm: RSA\nSigner #1 key size (bits): 2048\nSigner #1 public key SHA-256 digest: 8c46b8cc695673df900eb8993f1d030a2a3460ec3e9c22b185f2795df0b43767\nSigner #1 public key SHA-1 digest: a99399c6b09c17871b41a46758e288e601be7212\nSigner #1 public key MD5 digest: 8353f487875634a2b771bfac4d9ec979",
+  "package_report": "package: name='com.kndez.ninagarden' versionCode='1' versionName='1.0' platformBuildVersionName='15' platformBuildVersionCode='35' compileSdkVersion='35' compileSdkVersionCodename='15'\nminSdkVersion:'26'\ntargetSdkVersion:'35'\napplication-label:'Jardín de Nina'\napplication-icon-160:'res/drawable/ic_flower.xml'\napplication: label='Jardín de Nina' icon='res/drawable/ic_flower.xml'\nlaunchable-activity: name='com.kndez.ninagarden.SettingsActivity'  label='Jardín de Nina' icon=''\nfeature-group: label=''\n  uses-feature: name='android.software.live_wallpaper'\n  uses-feature: name='android.hardware.faketouch'\n  uses-implied-feature: name='android.hardware.faketouch' reason='default feature for all apps'\nprovides-component:'wallpaper'\nmain\nsupports-screens: 'small' 'normal' 'large' 'xlarge'\nsupports-any-density: 'true'\nlocales: '--_--'\ndensities: '160'"
+}

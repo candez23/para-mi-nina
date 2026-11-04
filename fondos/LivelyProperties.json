@@ -1,0 +1,53 @@
+{
+  "theme": {
+    "type": "dropdown",
+    "value": 0,
+    "text": "Colores del jardín",
+    "items": [
+      "Alborada",
+      "Noche",
+      "Salvia"
+    ]
+  },
+  "density": {
+    "type": "slider",
+    "min": 60,
+    "max": 140,
+    "step": 10,
+    "value": 100,
+    "text": "Cantidad de flores"
+  },
+  "motion": {
+    "type": "slider",
+    "min": 40,
+    "max": 140,
+    "step": 10,
+    "value": 80,
+    "text": "Intensidad de la brisa"
+  },
+  "petals": {
+    "type": "checkbox",
+    "value": true,
+    "text": "Pétalos cayendo"
+  },
+  "placement": {
+    "type": "dropdown",
+    "value": 0,
+    "text": "Composición",
+    "items": [
+      "Al centro",
+      "A la derecha",
+      "A la izquierda"
+    ]
+  },
+  "fps": {
+    "type": "dropdown",
+    "value": 1,
+    "text": "Fluidez",
+    "items": [
+      "24 FPS · ahorro",
+      "30 FPS · suave",
+      "45 FPS · extra"
+    ]
+  }
+}

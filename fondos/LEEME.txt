@@ -1,0 +1,19 @@
+JARDÍN PARA NINA · FONDO VIVO PARA PC
+
+1. Instala Lively Wallpaper desde su fuente oficial o Microsoft Store.
+   Proyecto oficial: https://github.com/lively-community/lively
+2. Arrastra NinaGarden-Lively.zip a la ventana de Lively o selecciónalo
+   desde Añadir fondo. No necesitas descomprimirlo.
+3. Elige Jardín para Nina en la biblioteca para aplicarlo al escritorio.
+4. Clic derecho > Personalizar permite elegir colores, pétalos y brisa.
+5. Activa Iniciar con Windows en Lively si quieres que aparezca al iniciar.
+
+El ramo crece al abrirse y permanece. Al ocultar y mostrar de nuevo el
+escritorio continúa donde estaba, sin borrarse ni reiniciar la formación.
+Lively ofrece ajustes para pausar al jugar o trabajar a pantalla completa.
+
+Este paquete es código de dibujo local: no necesita internet, no tiene
+música, anuncios, enlaces de seguimiento ni registra movimientos del ratón.
+
+Para ver el fondo por separado, también puedes abrir index.html en tu
+navegador. Eso es una vista previa; aplicar el fondo requiere Lively.
